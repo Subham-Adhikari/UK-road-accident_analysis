@@ -72,7 +72,6 @@ Using Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Slicers):
 ### Full Dashboard  
 ![Dashboard](./Images/Dashboard.png)
 
-*(Replace image paths with your actual GitHub image folder.)*
 
 ---
 
